@@ -1,0 +1,30 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+}
+
+.oddColumnTable {
+  background-color: white;
+}
+
+.evenColumnTable {
+  background-color: #dddddd;
+}
+
+tr:hover {
+  background-color: rgb(207, 207, 207);
+}

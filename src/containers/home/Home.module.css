@@ -1,0 +1,12 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 10px 100px;
+}
+
+.titlePage {
+  font-size: 2.5rem;
+  font-family: "Browallia New Bold";
+  color: rgb(173, 168, 168);
+}

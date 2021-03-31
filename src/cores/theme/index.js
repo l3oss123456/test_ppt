@@ -24,20 +24,20 @@ export const colors = {
   jade: "#00cc6d",
   submit: "#2ede3c",
   cinnabar: "#de502e",
-  lemon: "#EFDE18"
+  lemon: "#EFDE18",
 };
 export const fontFamily = {
   primary: "Proxima Nova Soft",
-  primaryBold: "Proxima Nova Soft Bold"
+  primaryBold: "Proxima Nova Soft Bold",
 };
 
 export const fontSize = {
   title: "50px",
-  text: "16px"
+  text: "16px",
 };
 
 export default {
   colors,
   fontFamily,
-  fontSize
+  fontSize,
 };
